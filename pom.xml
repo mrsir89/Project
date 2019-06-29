@@ -19,6 +19,8 @@
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
 
+
+
   <dependencies>
 
     <dependency>
@@ -79,9 +81,6 @@
 
 
 
-
-
-
     <!-- https://mvnrepository.com/artifact/javax.ejb/javax.ejb-api -->
     <dependency>
       <groupId>javax.ejb</groupId>
@@ -110,8 +109,9 @@
 
 
 
-
   </dependencies>
+
+
 
 
   <build>
